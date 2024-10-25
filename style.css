@@ -1,0 +1,19 @@
+.des{
+    color: black;
+    display: flex;
+    background-color: hsl(64, 52%, 36%);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-style: oblique;
+     width: 100%;
+     height: fit-content;
+}
+.header{
+    list-style: none;
+    color: rgb(240, 3, 50);
+    background-color: darkkhaki;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: initial;
+    font-size: large;
+    max-width: fit-content;
+}
